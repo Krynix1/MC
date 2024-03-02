@@ -1,0 +1,44 @@
+{
+  "bot-account": {
+    "username": "Online_Bot",
+    "password": "",
+    "type": "tlauncher"
+  },
+
+  "server": {
+    "ip": "LSTR.aternos.me",
+    "port": 54399,
+    "version": "1.16.5"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "J2Trappy"
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is urFate_ ",
+        "I want be alone ",
+        "Visit my Youtube page! (https://youtube.com/@H2N_OFFICIAL)"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
